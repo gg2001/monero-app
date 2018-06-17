@@ -1,5 +1,5 @@
 var config = {
-    apiUrl: "http://127.0.0.1:1984/",
+    apiUrl: "https://moneroapi.gcubed.io/",
     mainnetExplorerUrl: "https://xmrchain.com/",
     testnetExplorerUrl: "https://testnet.xmrchain.com/",
     stagenetExplorerUrl: "http://162.210.173.150:8083/",
